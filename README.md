@@ -1,8 +1,8 @@
-# 👩🏼‍💻 Curriculo HTML - Concluída ✅
+# 👩🏼‍💻 Currículo HTML - Concluída ✅
 
 Atividade realizada na formação Programação Web - Do zero ao avançado, do ElasNaTech.
 
-O projeto consite em desenvolver um currículo usando tags HTML, também foi adicionado CSS para estilização.
+O projeto consiste em desenvolver um currículo usando tags HTML, também foi adicionado CSS para estilização.
 
 ### 🛠️ Tecnologias utilizadas:
 
@@ -12,5 +12,3 @@ O projeto consite em desenvolver um currículo usando tags HTML, também foi adi
 - HTML;
 - Navegador Google Chrome;
 - Live Server.
-
-
